@@ -1,5 +1,7 @@
-<img src="images/logo.png" width="400" align="right" style="margin-left: 15px;">
- 
+<p align="center">
+  <img src="images/logo.png" width="800">
+</p>
+
 This repository is dedicated to applications of Machine Learning across various subsurface disciplines, including geology, geophysics, drilling, petroleum, and reservoir engineering. The goal of the program is to equip university students with an intuitive understanding of Machine Learning algorithms via hands-on exercises and derivations. It starts with the fundamentals of predictive subsurface modeling and how it differs from traditional prediction problems. Various supervised and unsupervised algorithms and best practices for model generalization are covered. The lecture series concludes with specialized sessions on quantifying model uncertainty and the explainability of algorithms in business environments. We hope this intuitive learning will equip users with a deep understanding of the models used—including their pros and cons—and make it easier to combine them with domain expertise.
 
 The material was initially created as a collaboration for a lecture series with the [SEG](https://seg.org/). Because it is intended for use in live lectures, some slides are left for completion or further explanation. Repository will be extended with additional learning materials and more advanced topics, and contributions are welcome.
